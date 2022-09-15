@@ -1,0 +1,5 @@
+backup/
+cs140e-22win/
+*.bin
+*.o
+*.elf
